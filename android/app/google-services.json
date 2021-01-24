@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321604208707",
+    "project_id": "canesapp-cb7b1",
+    "storage_bucket": "canesapp-cb7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321604208707:android:d706469e71de119f2e2cf6",
+        "android_client_info": {
+          "package_name": "com.example.canes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321604208707-oese4c5q3j9td5shisrgo7shgvahubm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxJGMYS5nILIy6LQIvFcLT9_sFdPMXwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321604208707-oese4c5q3j9td5shisrgo7shgvahubm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
